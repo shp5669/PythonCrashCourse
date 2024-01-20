@@ -7,3 +7,4 @@ print(message)
 brand = ['Apple', 'Samsung', 'Google', 'Huawei']
 message = f"I would like to buy a {brand[0]}"
 print(message)
+
